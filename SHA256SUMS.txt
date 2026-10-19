@@ -1,0 +1,4 @@
+ee2f5bb67eea33a7aeea746a4397c77708b7f12deae22f1a450acf21dfbfc2db  web-apps/apps/documenteditor/main/locale/lt.json
+7cb5218be6384b0463a7c3a2fc0d52bed4ef59e34b611cb20da1cfdf89ca8487  web-apps/apps/presentationeditor/main/locale/lt.json
+f102d6c0f62d72a46fdcc96530cab089a92d28ca83773a0c2f32ce88bdcf1d50  web-apps/apps/spreadsheeteditor/main/locale/lt.json
+3a9b4b6ab698d668dcedcda1c2da598f4ca9789a0d8b4aefb90e00e2cb425040  LICENSE
